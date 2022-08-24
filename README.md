@@ -1,1 +1,1 @@
-"# csgo-execs" 
+my personal execs for csgo
